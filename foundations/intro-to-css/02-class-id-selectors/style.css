@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.odds {
+    background-color: #F0C2F0;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.font-24 {
+    font-size: 24px;
+}
+
+#num2 {
+    font-size: 36px;
+    color: #091F7A;
+}
+
+#num4 {
+    background-color: #B1ED82;
+    font-weight: bold;
+}
